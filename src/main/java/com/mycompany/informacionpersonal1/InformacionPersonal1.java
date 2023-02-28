@@ -6,9 +6,9 @@ package com.mycompany.informacionpersonal1;
  */
 public class InformacionPersonal1 {
 
-    String nombre = "Brandon Macbeth",
-            apellido_paterno = "Benitez",
-            apellido_materno = "Castillo";
+    String nombre = "Eduardo",
+            apellido_paterno = "Gonzalez",
+            apellido_materno = "Zaragoza";
     int edad = 23;
     String fecha_nacimiento = "24/Octubre/1999";
     String hobbies = "jugar videojuegos, ver peliculas y series";
